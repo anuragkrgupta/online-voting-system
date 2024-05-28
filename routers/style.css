@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    background-color: #afddef;
+
+
+}
+#head{
+    color: #964734;
+    font-family: 'Lobster', cursive;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+input{
+    padding: 20px;
+    border-radius: 5px;
+    
+}
+
+button{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #B9E794;
+    color: black;
+    cursor: pointer;
+    
+}
+
+#dropBox{
+    padding: 10px;
+    border-radius: 5px;
+    width: 8.5%;
+    cursor: pointer;
+}
+
+#file{
+    padding: 5px;
+    border-radius: 5px;
+    border: 1.5px solid;
+    width: 31%;
+    padding-right: 5px;
+    padding-left: 80px;
+}
+
+#bodysection h3{
+    font-family: 'Lobster', cursive;
+    color: #964734;
+    font-size: 150%;
+}
+#Address{
+    width: 24%;
+}
